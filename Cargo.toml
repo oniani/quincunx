@@ -1,0 +1,9 @@
+[package]
+name = "quincunx"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = { version = "1.0", default-features = false }
+plotters = "0.3.3"
+rand = "0.8.5"
